@@ -2,7 +2,7 @@
   "Home": [
     {
       "acf_fc_layout": "hero",
-      "title": "Tyska Alexander Orthodontics",
+      "title": "Oceans Orthodontics and Pediatric Dentistry",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -12,16 +12,16 @@
         "href": "",
         "path": "/contact",
         "hash": "#form",
-        "external": false,
+        "external": true,
         "include_icon": false,
         "icon": "pencil",
         "color": "black"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.webp",
-        "alt": "Smiling patients and orthodontic team at Tyska Alexander Orthodontics",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/141940695_Young_boy_looking_at_the_mirror_with_toothy_smile.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/141940695_Young_boy_looking_at_the_mirror_with_toothy_smile.webp",
+        "alt": "Smiling baby receiving gentle pediatric dental care at Oceans Orthodontics and Pediatric Dentistry",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -30,7 +30,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Home Hero"
+          "context_category": "New Patients Hero"
         }
       },
       "video": {
@@ -42,13 +42,13 @@
     },
     {
       "acf_fc_layout": "block_text_fh",
-      "title": "Welcome to Tyska Alexander Orthodontics",
+      "title": "Welcome",
       "paragraphs": [
         {
-          "text": "Having a beautiful smile increases your self‑esteem and the confidence with which you move through the world. Dr. Edwin Tyska and Dr. Kristen Alexander excel at creating incredible smiles that are healthy and becoming. Our doctors consult together when designing treatment plans so you benefit from multiple experienced specialists and a customized approach."
+          "text": "We at Oceans Orthodontics and Pediatric Dentistry are exceptionally caring and provide exceptional care. The Oceans Team always deliver the best dental care with a genuine smile. We elevate the lives and smiles of each and every person with whom we come in contact."
         },
         {
-          "text": "We have an experienced, compassionate team who will be by your side throughout care. From the first consultation through retention, we focus on clear communication, modern techniques, and a comfortable experience for patients of all ages."
+          "text": "We are mindful at all times and of all people. We want our dental home to become your family’s home away from home — ensuring families leave with big smiles."
         }
       ],
       "component_options": {
@@ -65,11 +65,11 @@
       "title": "Why Choose Us",
       "items": [
         {
-          "title": "Collaborative Care",
-          "icon": "people",
+          "title": "Board‑Certified Specialists",
+          "icon": "king-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/265958166_Group_of_medical_doctors_at_clinic_Unity_concept.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/265958166_Group_of_medical_doctors_at_clinic_Unity_concept.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -82,7 +82,7 @@
               "context_category": "Experienced"
             }
           },
-          "text": "Treatment plans are developed with input from multiple experienced orthodontists, giving each patient the benefit of several specialists’ perspectives.",
+          "text": "Our founders are board‑certified specialists in orthodontics and pediatric dentistry, giving you advanced, specialist care for children and adults.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -94,11 +94,11 @@
           }
         },
         {
-          "title": "Customized Plans",
-          "icon": "file-chart-tooth",
+          "title": "Comprehensive Family Care",
+          "icon": "people",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/312940249_Invisible_orthodontics_cosmetic_brackets_on_gradie.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/312940249_Invisible_orthodontics_cosmetic_brackets_on_gradie.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/258870461_Happy_girl_and_her_dad_during_a_dental_appointment.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -108,10 +108,10 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Better Care"
+              "context_category": "All Ages"
             }
           },
-          "text": "Every treatment plan is tailored to the patient’s needs, focusing on long‑term health and results that fit your lifestyle.",
+          "text": "One office for lifelong oral health: pediatric specialty care, orthodontic screening, and preventive services for every stage.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -140,7 +140,7 @@
               "context_category": "Modern Equipment"
             }
           },
-          "text": "We use digital scanning and modern tools, and the doctors pursue ongoing education to expand treatment options and improve comfort.",
+          "text": "We offer comfortable, modern care including clear aligners, Damon/braces options, and evidence‑based appliances in a patient‑friendly setting.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -152,11 +152,11 @@
           }
         },
         {
-          "title": "Friendly Team",
+          "title": "Child‑Centered Experience",
           "icon": "thumbs-up-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/217063122_Tween_Girls_in_Middle_School_Hugging.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/217063122_Tween_Girls_in_Middle_School_Hugging.webp",
             "alt": "",
             "aria_hidden": false,
             "bgColor": "",
@@ -166,10 +166,10 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Experienced"
+              "context_category": "Kid friendly"
             }
           },
-          "text": "Our patient‑focused staff provides compassionate support and clear guidance through every step of treatment.",
+          "text": "A calm, fun office and a team experienced with children, including a dedicated Tongue‑Tie Center, to make visits positive and comfortable.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -209,24 +209,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Tyska",
+      "title": "Meet Dr. Eric Frank",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Edwin L. Tyska, DDS, enjoys orthodontics and serving patients in the Buffalo area. He emphasizes treating every patient as he would his own family and stays current through continuing education to deliver thoughtful, effective care."
+          "text": "Dr. Eric Frank, DDS, MA, MS, is a board‑certified orthodontist and ABO Diplomate (certified February 2015). He earned his D.D.S. and completed orthodontic residency at Columbia University College of Dental Medicine, where he also earned an M.A. in Dental Education. Dr. Frank leads orthodontic care at Oceans and combines advanced training with a patient‑centered approach."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-        "webp": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-        "alt": "Dr. Edwin Tyska, orthodontist at Tyska Alexander Orthodontics",
+        "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/eric3-scaled.jpg",
+        "webp": "",
+        "alt": "Dr. Eric Frank, Board‑Certified Orthodontist at Oceans Orthodontics and Pediatric Dentistry",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -242,12 +242,12 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Dr. Tyska",
-            "aria_label": "Learn about Dr. Tyska",
+            "label": "Learn About Dr. Frank",
+            "aria_label": "Learn about Dr. Eric Frank",
             "href": "",
             "path": "/about",
-            "hash": "#meet-dr-tyska",
-            "external": false,
+            "hash": "#meet-the-doctor",
+            "external": true,
             "include_icon": false,
             "icon": "pencil",
             "color": "black"
@@ -277,28 +277,28 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Alexander",
+      "title": "Meet Dr. Aimee Leibowitz",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Kristen M. Alexander, DDS, is a Buffalo native who brings a commitment to continuing education and the latest treatment options. She focuses on clear communication and delivering strong, lasting results for patients of all ages."
+          "text": "Dr. Aimee Leibowitz, DDS, is a board‑certified pediatric dentist and Diplomate of the American Board of Pediatric Dentistry. She earned her D.D.S. at Columbia University College of Dental Medicine and completed pediatric specialty training at Boston University. Dr. Aimee focuses on making dental visits positive and works closely with families, including care for children with special health care needs."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-        "webp": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-        "alt": "Dr. Kristen Alexander, orthodontist at Tyska Alexander Orthodontics",
+        "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/aimee-scaled.jpg",
+        "webp": "",
+        "alt": "Dr. Aimee Leibowitz, Board‑Certified Pediatric Dentist at Oceans Orthodontics and Pediatric Dentistry",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Experienced"
+          "context_category": "Kid friendly"
         }
       },
       "video": {
@@ -310,12 +310,148 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Dr. Alexander",
-            "aria_label": "Learn about Dr. Alexander",
+            "label": "Learn About Dr. Aimee",
+            "aria_label": "Learn about Dr. Aimee Leibowitz",
             "href": "",
             "path": "/about",
-            "hash": "#meet-dr-tyska",
-            "external": false,
+            "hash": "#meet-the-doctor",
+            "external": true,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": true,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. David Berkower",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. David Berkower, DDS, is a pediatric dentist who completed his pediatric residency and served as chief resident. He earned his D.D.S. at Columbia University College of Dental Medicine and brings a calm, child‑focused approach to care."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://oceanswestfield.com/wp-content/uploads/2023/03/LaurenAnzevinoLLC-51.jpg",
+        "webp": "",
+        "alt": "Dr. David Berkower, Pediatric Dentist at Oceans Orthodontics and Pediatric Dentistry",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "center",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Kid friendly"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Learn About Dr. David",
+            "aria_label": "Learn about Dr. David Berkower",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": true,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": true,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": true,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Ashley Wilmot",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. Ashley Wilmot, DMD, is a pediatric dentist who completed dental training at Tufts University and pediatric residency at Woodhull Hospital. She emphasizes kindness, patience, and partnership with families to create positive dental experiences for children."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://www.oceanswestfield.com/wp-content/uploads/2019/05/Waiting-room.jpg",
+        "webp": "",
+        "alt": "Pediatric dental exam room and welcoming staff at Oceans Orthodontics and Pediatric Dentistry",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "center",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Kid friendly"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [
+        {
+          "button": {
+            "type": "nuxt",
+            "style": "secondary",
+            "label": "Learn About Dr. Ashley",
+            "aria_label": "Learn about Dr. Ashley Wilmot",
+            "href": "",
+            "path": "/about",
+            "hash": "#meet-the-doctor",
+            "external": true,
             "include_icon": false,
             "icon": "pencil",
             "color": "black"
@@ -348,7 +484,7 @@
       "title": "Explore Our Treatments",
       "paragraphs": [
         {
-          "text": "We offer a full range of orthodontic services, from discreet clear aligners to fixed braces and retainers, plus digital scanning for a comfortable, accurate fit."
+          "text": "From braces to clear aligners and preventive pediatric care, we offer services tailored to growing smiles and adult treatment needs."
         }
       ],
       "button": {
@@ -359,7 +495,7 @@
         "href": "",
         "path": "/treatments",
         "hash": "",
-        "external": false,
+        "external": true,
         "include_icon": false,
         "icon": "pencil",
         "color": "black"
@@ -369,83 +505,83 @@
       "items": [
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.webp",
-            "alt": "Patient holding Invisalign aligners",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513818_Clear_braces_-_invisible_brackets_for_teeth_straig.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/135513818_Clear_braces_-_invisible_brackets_for_teeth_straig.webp",
+            "alt": "Icon representing clear aligner therapy such as Invisalign or Spark",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "",
+            "objectPosition": "center",
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
               "context_category": "Treatments Hero"
             }
           },
-          "title": "Invisalign<sup>®</sup>",
+          "title": "Clear Aligners",
           "path": "/treatments",
-          "hash": "#invisalign"
+          "hash": "#clear-aligner-therapy-invisalign"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
-            "alt": "Patient smiling with ceramic braces",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/40515651_teeth_with_retainer.webp",
+            "alt": "Icon representing braces and retainers",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "",
+            "objectPosition": "center",
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
               "context_category": "Treatments Hero"
             }
           },
-          "title": "Clear & Metal Braces",
+          "title": "Braces & Retainers",
           "path": "/treatments",
-          "hash": "#braces"
+          "hash": "#braces-care"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.webp",
-            "alt": "Various orthodontic retainers displayed",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/351557806_A_girl_with_a_removable_orthodontic_appliance_and.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/351557806_A_girl_with_a_removable_orthodontic_appliance_and.webp",
+            "alt": "Infant receiving specialized tongue‑tie evaluation and care",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "",
+            "objectPosition": "center",
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Treatments Hero"
+              "context_category": "Initial Visit"
             }
           },
-          "title": "Retainers",
+          "title": "Tongue‑Tie Center",
           "path": "/treatments",
-          "hash": "#retainers"
+          "hash": "#oceans-tongue-tie-center"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.webp",
-            "alt": "Digital scanning equipment used for orthodontic impressions",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/231187645_little_girl_with_a_toothbrush_in_dentistry_nice.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/231187645_little_girl_with_a_toothbrush_in_dentistry_nice.webp",
+            "alt": "Icon representing preventive pediatric dental care: cleanings, sealants, fluoride",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
             "addLoader": false,
-            "objectPosition": "",
+            "objectPosition": "center",
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Modern Equipment"
+              "context_category": "Preventive Care"
             }
           },
-          "title": "Digital Scanning",
+          "title": "Preventive Care",
           "path": "/treatments",
-          "hash": "#advanced-technology"
+          "hash": "#what-we-do"
         }
       ],
       "component_options": {
@@ -458,17 +594,60 @@
       "reverse_row": false
     },
     {
+      "acf_fc_layout": "multi_item_testimonial",
+      "title": "What Patients Are Saying",
+      "review_text": "Read More Reviews",
+      "links": [
+        {
+          "href": "https://goo.gl/NjqtdE",
+          "icon": "facebook",
+          "color": "primary"
+        }
+      ],
+      "testimonials": [
+        {
+          "author": "Melvin W",
+          "testimonial": "“Dr. Frank and staff are amazing! You feel the sincere welcome by the wonderful receptionist upon arrival. Then the flawless service begins seamless and precise. It is a pleasure to take my son every six weeks for his visit.”"
+        },
+        {
+          "author": "Erica K",
+          "testimonial": "“Would highly recommend! Went for multiple opinions and it was an easy decision to go with Dr. Frank, who took his time to answer all my questions and explain everything. Very nice office and very nice staff.”"
+        },
+        {
+          "author": "Leigh Anne Gallagher",
+          "testimonial": "“Dr. Aimee is awesome. She took care of my son’s lip and tongue tie revisions and was thorough, calming, and knowledgeable...”"
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg2",
+      "linear_gradient": "linear-gradient(0deg, #EFF6F8 0%, rgba(239, 246, 248, 0) 100%)"
+    },
+    {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Follow Us on Social Media",
+      "title": "Follow Us — Social Links",
       "content_block": "social_block",
       "text": "",
       "social_links": [
         {
-          "href": "https://search.google.com/local/reviews?placeid=ChIJZ1_LMkCe04kRl1Rvwwr8foM",
+          "href": "https://www.facebook.com/pg/oceanswestfield/reviews/",
           "icon": "facebook"
         },
         {
-          "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+          "href": "https://www.instagram.com/oceanswestfield/",
+          "icon": "instagram"
+        },
+        {
+          "href": "https://goo.gl/NjqtdE",
+          "icon": "facebook"
+        },
+        {
+          "href": "https://www.youtube.com/channel/UCLXZjFgiOpKefVZiElZMq8A",
           "icon": "youtube"
         }
       ],
@@ -497,14 +676,14 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/391155843_Group_of_young_people_using_and_looking_at_mobile.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/391155843_Group_of_young_people_using_and_looking_at_mobile.webp",
-        "alt": "Parents with kids relaxing in front of home",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/590658554_Group_of_multiracial_young_student_people_smiling.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/590658554_Group_of_multiracial_young_student_people_smiling.webp",
+        "alt": "Families and staff at Oceans Orthodontics and Pediatric Dentistry",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
@@ -518,7 +697,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
+      "title": "Schedule a Consultation",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -547,18 +726,18 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/360565145_Dental_consultation_with_3D_tomography_image.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/360565145_Dental_consultation_with_3D_tomography_image.webp",
+        "alt": "Schedule a consultation at Oceans Orthodontics and Pediatric Dentistry",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "New Patients Hero"
+          "context_category": "Contact Hero"
         }
       },
       "reversed": false,
@@ -568,15 +747,15 @@
     },
     {
       "seo": {
-        "page_title": "Home - Tyska Alexander Orthodontics",
-        "page_description": "Tyska Alexander Orthodontics provides personalized orthodontic care in Clarence and Tonawanda, NY, offering Invisalign®, braces, retainers, and digital scanning",
-        "page_keywords": "orthodontics, Invisalign, braces, retainers, digital scanning, Tyska Alexander, Clarence, Tonawanda",
+        "page_title": "Home - Oceans Orthodontics and Pediatric Dentistry",
+        "page_description": "Oceans Orthodontics and Pediatric Dentistry in Westfield, NJ offers board‑certified orthodontics and pediatric dental care including braces, Invisalign®, tongue",
+        "page_keywords": "orthodontics, pediatric dentist, Invisalign, braces, tongue-tie, Westfield NJ",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Home - Tyska Alexander Orthodontics",
-            "description": "Personalized orthodontic care in Clarence and Tonawanda, NY — Invisalign®, braces, retainers, and modern digital scanning.",
-            "image": "https://www.taortho.com/assets/images/slideshow/slide1.jpg"
+            "title": "Home - Oceans Orthodontics and Pediatric Dentistry",
+            "description": "Oceans Orthodontics and Pediatric Dentistry in Westfield, NJ offers board‑certified orthodontics and pediatric dental care including braces, Invisalign®, tongue",
+            "image": "https://www.oceanswestfield.com/wp-content/uploads/2024/01/004-smiling-baby.png"
           }
         }
       }
@@ -602,9 +781,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/239725802_group_of_professional_doctors.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/239725802_group_of_professional_doctors.webp",
-        "alt": "Team of orthodontic professionals smiling in the office lobby",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/149317615_Group_of_four_dentist_working_together_in_dental_o.webp",
+        "alt": "Oceans Orthodontics and Pediatric Dentistry team smiling in a bright office lobby",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -626,14 +805,20 @@
       "title": "Our Mission",
       "paragraphs": [
         {
-          "text": "We recognize that all of our patients are unique and deserve to receive orthodontic care that reflects their individual needs. Our experienced and talented team is committed to working with you and your family to create a comfortable, stress‑free, and rewarding orthodontic experience every time you visit our practice. We are pleased to welcome you and your family, and we look forward to working with you."
+          "text": "We at Oceans Orthodontics and Pediatric Dentistry provide thoughtful, family-centered care with genuine warmth. Our team treats every patient with respect and attention so visits feel comfortable and personal."
         },
         {
-          "text": "Having a beautiful smile increases your self‑esteem and the confidence with which you move through the world. Our doctors consult together when they design a treatment plan for each patient, so you benefit from multiple specialists collaborating on one customized plan tailored to your needs. With individualized attention to detail, our goal is to make your mouth healthy and your smile beautiful."
+          "text": "Our goal is to make high-quality orthodontic and pediatric dental care accessible and stress-free. We tailor treatment plans to each child and family, focusing on long-term health, function, and confident smiles."
+        },
+        {
+          "text": "We offer specialty care across orthodontics and pediatric dentistry, using modern technology and evidence-based techniques to keep visits efficient and predictable."
+        },
+        {
+          "text": "From early pediatric visits to orthodontic consultations, we partner with families to educate, support, and deliver compassionate care so every patient can leave smiling."
         }
       ],
       "component_options": {
-        "hash": "",
+        "hash": "our-mission",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -647,12 +832,12 @@
     },
     {
       "acf_fc_layout": "tabs",
-      "title": "Meet Dr. Tyska",
+      "title": "Meet Dr. Eric Frank",
       "paragraphs": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-        "webp": "",
-        "alt": "Dr. Edwin L. Tyska",
+        "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/eric3-scaled.jpg",
+        "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/eric3-scaled.jpg",
+        "alt": "Dr. Eric Frank smiling",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -669,13 +854,16 @@
           "header": "Professional",
           "paragraphs": [
             {
-              "text": "Following his postgraduate studies, Dr. Edwin L. Tyska began his career in private practice and later became a partner. He brings long‑standing clinical experience and a collaborative approach to each treatment plan."
+              "text": "Dr. Eric Frank, DDS, MA, MS is a board-certified orthodontist and Diplomate of the American Board of Orthodontics (ABO), achieving board certification in February 2015. He is committed to contemporary, evidence-based orthodontic care and continuing education."
+            },
+            {
+              "text": "Dr. Frank has presented research and stays active in professional organizations to bring advanced techniques, including Invisalign<sup>®</sup>, to his patients."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-            "webp": "",
-            "alt": "Dr. Edwin L. Tyska in clinic",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/eric3-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/eric3-scaled.jpg",
+            "alt": "Dr. Eric Frank in clinic",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -687,16 +875,19 @@
           }
         },
         {
-          "header": "Continuing Education",
+          "header": "Education",
           "paragraphs": [
             {
-              "text": "Dr. Tyska and the doctors in the practice regularly participate in continuing education programs to stay current with treatment methods, materials, and the latest technology."
+              "text": "Dr. Frank graduated Phi Beta Kappa from the University of Florida (B.S., summa cum laude). He earned his D.D.S. at Columbia University College of Dental Medicine and completed orthodontic residency training at Columbia University Division of Orthodontics, where he served as Chief Resident."
+            },
+            {
+              "text": "He also earned an M.A. in Dental Education from Columbia University Teachers College and conducted craniofacial research while at Columbia."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-            "webp": "",
-            "alt": "Dr. Tyska at a continuing education event",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/eric3-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/eric3-scaled.jpg",
+            "alt": "Dr. Eric Frank headshot",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -708,16 +899,16 @@
           }
         },
         {
-          "header": "Outside the Office",
+          "header": "Personal",
           "paragraphs": [
             {
-              "text": "A resident of East Amherst, Dr. Tyska is active with family life, coaches the Lou Gehrig Lasers travel girls’ softball league, enjoys golf, travel, and supporting the Buffalo Sabres."
+              "text": "Raised in South Florida and later living in New York City, Dr. Frank now calls Westfield home. He enjoys flying as a private pilot, competing in triathlons, scuba diving, skiing, and travel photography — many practice photos were taken by him."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-            "webp": "",
-            "alt": "Dr. Tyska supporting local youth sports",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/eric3-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/eric3-scaled.jpg",
+            "alt": "Dr. Eric Frank smiling in office",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -730,7 +921,7 @@
         }
       ],
       "component_options": {
-        "hash": "meet-dr-tyska",
+        "hash": "meet-dr-eric-frank",
         "component_padding": "full",
         "component_margins": "half",
         "hide_component": false
@@ -748,12 +939,12 @@
     },
     {
       "acf_fc_layout": "tabs",
-      "title": "Meet Dr. Alexander",
+      "title": "Meet Dr. Aimee Leibowitz‑Frank",
       "paragraphs": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-        "webp": "",
-        "alt": "Dr. Kristen M. Alexander",
+        "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/aimee-scaled.jpg",
+        "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/aimee-scaled.jpg",
+        "alt": "Dr. Aimee Leibowitz‑Frank smiling",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -770,13 +961,13 @@
           "header": "Professional",
           "paragraphs": [
             {
-              "text": "Dr. Kristen M. Alexander maintains an active clinical practice and brings a patient‑centered approach to treatment, focusing on clear communication and individualized care."
+              "text": "Dr. Aimee Leibowitz‑Frank, DDS is a board-certified pediatric dentist and Diplomate of the American Board of Pediatric Dentistry (ABPD). She brings specialized training in caring for children and patients with special health care needs."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-            "webp": "",
-            "alt": "Dr. Kristen M. Alexander in clinic",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/aimee-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/aimee-scaled.jpg",
+            "alt": "Dr. Aimee Leibowitz‑Frank in clinic",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -788,16 +979,16 @@
           }
         },
         {
-          "header": "Affiliations & Education",
+          "header": "Education",
           "paragraphs": [
             {
-              "text": "Dr. Alexander regularly participates in continuing education and maintains professional affiliations with local and national dental and orthodontic organizations to ensure patients benefit from current best practices."
+              "text": "Dr. Aimee earned her DDS from Columbia University College of Dental Medicine and completed a pediatric dentistry residency at Boston University. She is an active member of the American Academy of Pediatric Dentistry and other professional organizations."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-            "webp": "",
-            "alt": "Professional affiliations",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/aimee-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/aimee-scaled.jpg",
+            "alt": "Dr. Aimee headshot",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -812,13 +1003,16 @@
           "header": "Personal",
           "paragraphs": [
             {
-              "text": "A Buffalo native, Dr. Alexander lives locally with her husband and children. She enjoys outdoor activities, travel, and cheering for local sports teams."
+              "text": "Aimee loves working with children and focuses on making visits positive and accessible. She is fluent in Spanish, enjoys family time, scuba diving, yoga, and brings special training in treating children with sensory and developmental needs."
+            },
+            {
+              "text": "Tongue tie and airway-focused care credentials include LightScalpel laser provider training, Tongue Tied Academy courses, and additional airway education and affiliations with the Breathe Institute."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-            "webp": "",
-            "alt": "Dr. Alexander with family",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/aimee-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/aimee-scaled.jpg",
+            "alt": "Dr. Aimee with young patient",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -831,7 +1025,209 @@
         }
       ],
       "component_options": {
-        "hash": "meet-dr-alexander",
+        "hash": "meet-dr-aimee-leibowitz-frank",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. David Berkower",
+      "paragraphs": [],
+      "image": {
+        "src": "https://oceanswestfield.com/wp-content/uploads/2023/03/LaurenAnzevinoLLC-51.jpg",
+        "webp": "https://oceanswestfield.com/wp-content/uploads/2023/03/LaurenAnzevinoLLC-51.jpg",
+        "alt": "Dr. David Berkower smiling",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Dr. David Berkower, DDS is a pediatric dentist with training in hospital-based and clinical pediatric care. He completed a two-year pediatric dentistry residency and has experience in global health outreach treating children in underserved communities."
+            }
+          ],
+          "image": {
+            "src": "https://oceanswestfield.com/wp-content/uploads/2023/03/LaurenAnzevinoLLC-51.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2023/03/LaurenAnzevinoLLC-51.jpg",
+            "alt": "Dr. David Berkower headshot",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. David earned his D.D.S. from Columbia University College of Dental Medicine after completing undergraduate studies at Yeshiva University. He served as chief resident during his pediatric residency."
+            }
+          ],
+          "image": {
+            "src": "https://oceanswestfield.com/wp-content/uploads/2023/03/LaurenAnzevinoLLC-51.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2023/03/LaurenAnzevinoLLC-51.jpg",
+            "alt": "Dr. David in clinic",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "Dr. David enjoys cooking, travel, concerts, and family time. His early global health experiences treating children helped shape his focus on compassionate pediatric care."
+            }
+          ],
+          "image": {
+            "src": "https://oceanswestfield.com/wp-content/uploads/2023/03/LaurenAnzevinoLLC-51.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2023/03/LaurenAnzevinoLLC-51.jpg",
+            "alt": "Dr. David with family",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-dr-david-berkower",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Ashley Wilmot",
+      "paragraphs": [],
+      "image": {
+        "src": "https://oceanswestfield.com/wp-content/uploads/2019/10/NJDA.jpg",
+        "webp": "https://oceanswestfield.com/wp-content/uploads/2019/10/NJDA.jpg",
+        "alt": "Dr. Ashley Wilmot headshot",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Professional",
+          "paragraphs": [
+            {
+              "text": "Dr. Ashley Wilmot, DMD is a pediatric dentist who completed specialty training and focuses on kindness, patience, and partnership with families to make dental visits positive and comfortable for children."
+            }
+          ],
+          "image": {
+            "src": "https://oceanswestfield.com/wp-content/uploads/2019/10/NJDA.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2019/10/NJDA.jpg",
+            "alt": "Dr. Ashley in clinic",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Education",
+          "paragraphs": [
+            {
+              "text": "Dr. Ashley completed undergraduate studies at Hofstra University, a post‑baccalaureate program at Temple University Kornberg School of Dentistry, and received her D.M.D. from Tufts University School of Dental Medicine, followed by pediatric dentistry residency training."
+            }
+          ],
+          "image": {
+            "src": "https://oceanswestfield.com/wp-content/uploads/2019/10/NJDA.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2019/10/NJDA.jpg",
+            "alt": "Dr. Ashley headshot",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        },
+        {
+          "header": "Personal",
+          "paragraphs": [
+            {
+              "text": "Dr. Ashley enjoys travel, camping, hiking, pilates, and spending time with family. She has participated in international outreach dentistry and brings a calm, encouraging approach to young patients."
+            }
+          ],
+          "image": {
+            "src": "https://oceanswestfield.com/wp-content/uploads/2019/10/NJDA.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2019/10/NJDA.jpg",
+            "alt": "Dr. Ashley with child patient",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-dr-ashley-wilmot",
         "component_padding": "full",
         "component_margins": "half",
         "hide_component": false
@@ -852,13 +1248,13 @@
       "title": "Meet the Team",
       "items": [
         {
-          "name": "Jeanette",
-          "position": "Practice Administrator & Financial Coordinator",
-          "bio": "Practice Administrator and financial coordinator supporting patient care and billing.",
+          "name": "Tessa",
+          "position": "Orthodontic Treatment Coordinator",
+          "bio": "Guides families through treatment plans, financing, and scheduling with a focus on clear communication.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Jeanette.jpg",
-            "webp": "",
-            "alt": "Jeanette, Practice Administrator",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/tessa-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/tessa-scaled.jpg",
+            "alt": "Tessa - Orthodontic Treatment Coordinator",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -870,13 +1266,13 @@
           }
         },
         {
-          "name": "Stephanie",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator who greets patients and manages scheduling.",
+          "name": "Mi'Arae",
+          "position": "Orthodontic Dental Assistant",
+          "bio": "Supports clinical care and helps patients feel comfortable during appointments.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-119.jpg",
-            "webp": "",
-            "alt": "Stephanie, Front Desk Coordinator",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/mia2-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/mia2-scaled.jpg",
+            "alt": "Mi'Arae - Orthodontic Dental Assistant",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -888,13 +1284,13 @@
           }
         },
         {
-          "name": "Kathie",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator assisting patients and phone inquiries.",
+          "name": "Jon",
+          "position": "Sterile Technician",
+          "bio": "Maintains sterilization and instrument readiness to keep clinical care safe and efficient.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Kathie.jpg",
-            "webp": "",
-            "alt": "Kathie, Front Desk Coordinator",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/jon2-1-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/jon2-1-scaled.jpg",
+            "alt": "Jon - Sterile Technician",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -906,13 +1302,13 @@
           }
         },
         {
-          "name": "Kristen",
-          "position": "Treatment Coordinator",
-          "bio": "Treatment coordinator who helps patients understand options and financial arrangements.",
+          "name": "Manny",
+          "position": "Pediatric Assistant",
+          "bio": "Provides hands-on support during pediatric procedures and helps kids feel at ease.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
-            "webp": "",
-            "alt": "Kristen, Treatment Coordinator",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/manny-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/manny-scaled.jpg",
+            "alt": "Manny - Pediatric Assistant",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -924,13 +1320,13 @@
           }
         },
         {
-          "name": "Heather",
-          "position": "Clinical Coordinator & Dental Assistant",
-          "bio": "Clinical coordinator and dental assistant supporting patient care.",
+          "name": "Yuzell",
+          "position": "Registered Dental Hygienist",
+          "bio": "Focused on preventive care and patient education to support long-term oral health.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Heather.jpg",
-            "webp": "",
-            "alt": "Heather, Clinical Coordinator",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2024/02/LaurenAnzevinoLLC-63yc-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2024/02/LaurenAnzevinoLLC-63yc-scaled.jpg",
+            "alt": "Yuzell - Registered Dental Hygienist",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -942,13 +1338,13 @@
           }
         },
         {
-          "name": "Torrie",
-          "position": "Dental Hygienist / Assistant",
-          "bio": "Dental hygienist and assistant providing clinical support.",
+          "name": "Jadie",
+          "position": "Registered Dental Hygienist",
+          "bio": "Provides hygiene care and guides families on home care best practices.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Torrie.jpg",
-            "webp": "",
-            "alt": "Torrie, Dental Hygienist",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/jadie-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/jadie-scaled.jpg",
+            "alt": "Jadie - Registered Dental Hygienist",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -960,13 +1356,13 @@
           }
         },
         {
-          "name": "Alissa",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant who works chairside to support treatments.",
+          "name": "Megan",
+          "position": "Patient Care Coordinator",
+          "bio": "Helps families with scheduling and patient communications to make visits run smoothly.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-088.jpg",
-            "webp": "",
-            "alt": "Alissa, Dental Assistant",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2023/03/LaurenAnzevinoLLC-96-1.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2023/03/LaurenAnzevinoLLC-96-1.jpg",
+            "alt": "Megan - Patient Care Coordinator",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -978,13 +1374,13 @@
           }
         },
         {
-          "name": "Rachel",
-          "position": "Financial Coordinator & Assistant Practice Administrator",
-          "bio": "Financial coordinator assisting with insurance and billing in Tonawanda.",
+          "name": "Tori",
+          "position": "Patient Care Coordinator",
+          "bio": "Coordinates patient flow and front-desk care with a friendly, helpful approach.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-38.jpg",
-            "webp": "",
-            "alt": "Rachel, Financial Coordinator",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2025/07/Tori-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2025/07/Tori-scaled.jpg",
+            "alt": "Tori - Patient Care Coordinator",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -996,13 +1392,13 @@
           }
         },
         {
-          "name": "Tammy",
-          "position": "Treatment Coordinator",
-          "bio": "Treatment coordinator supporting patient care at Tonawanda.",
+          "name": "Stefanie",
+          "position": "Registered Dental Assistant; Director of Pediatric Dentistry and the Tongue Tie Center",
+          "bio": "Leads pediatric clinical care and the Tongue Tie Center with an emphasis on gentle, family-focused treatment.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-44.jpg",
-            "webp": "",
-            "alt": "Tammy, Treatment Coordinator",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2024/12/Stef.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2024/12/Stef.jpg",
+            "alt": "Stefanie - Director of Pediatric Dentistry",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1014,67 +1410,13 @@
           }
         },
         {
-          "name": "Courtney",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator welcoming patients at Tonawanda.",
+          "name": "Casey",
+          "position": "Registered Dental Assistant",
+          "bio": "Assists during clinical procedures and helps maintain a calm environment for patients.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-18.jpg",
-            "webp": "",
-            "alt": "Courtney, Front Desk Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Rose",
-          "position": "Clinical Coordinator & Dental Assistant",
-          "bio": "Clinical coordinator providing chairside assistance and patient support.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Rose%20V.jpg",
-            "webp": "",
-            "alt": "Rose, Clinical Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Kim",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant supporting clinical procedures.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Kim.jpg",
-            "webp": "",
-            "alt": "Kim, Dental Assistant",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Paige",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant who assists with patient care and treatment setup.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-10.jpg",
-            "webp": "",
-            "alt": "Paige, Dental Assistant",
+            "src": "https://oceanswestfield.com/wp-content/uploads/2023/11/LaurenAnzevinoLLC-108-scaled.jpg",
+            "webp": "https://oceanswestfield.com/wp-content/uploads/2023/11/LaurenAnzevinoLLC-108-scaled.jpg",
+            "alt": "Casey - Registered Dental Assistant",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1087,7 +1429,7 @@
         }
       ],
       "component_options": {
-        "hash": "",
+        "hash": "meet-the-team",
         "component_padding": "full",
         "component_margins": "none",
         "hide_component": false
@@ -1095,20 +1437,20 @@
       "has_bio": true,
       "large_title": false,
       "center_title": false,
-      "background": "bg1",
+      "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "preserve_image": true
     },
     {
       "acf_fc_layout": "single_image_slider",
-      "title": "Office Tour",
+      "title": "Our Office",
       "carousel_aria": "Office Tour Carousel",
       "slides": [
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-180(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - waiting area",
+          "src": "https://oceanswestfield.com/wp-content/uploads/2022/07/LaurenAnzevinoLLC-56-1-scaled.jpg",
+          "webp": "https://oceanswestfield.com/wp-content/uploads/2022/07/LaurenAnzevinoLLC-56-1-scaled.jpg",
+          "alt": "Office waiting area with seating and décor",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1118,9 +1460,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-183(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - treatment room",
+          "src": "https://oceanswestfield.com/wp-content/uploads/2022/07/06a78c2c-7ccb-4d9a-b2d1-d1af505a99fa-scaled.jpg",
+          "webp": "https://oceanswestfield.com/wp-content/uploads/2022/07/06a78c2c-7ccb-4d9a-b2d1-d1af505a99fa-scaled.jpg",
+          "alt": "Treatment room view with dental chair and equipment",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1130,129 +1472,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-186(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - operatory",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-177(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - reception",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-167(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - patient area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-174(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - equipment and sterilization area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-370(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - waiting area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-374.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - operatory",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-377(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - treatment room",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-093(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - staff area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-090.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - clinical space",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-115.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - waiting and play area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-085(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - reception and staff",
+          "src": "https://oceanswestfield.com/wp-content/uploads/2022/10/614f4d21d60988bf9dbdf5b6e8213ca456e12672f9a5324d4bd03e6e78a2fd71.jpg",
+          "webp": "https://oceanswestfield.com/wp-content/uploads/2022/10/614f4d21d60988bf9dbdf5b6e8213ca456e12672f9a5324d4bd03e6e78a2fd71.jpg",
+          "alt": "Office interior showing patient care area",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1263,7 +1485,7 @@
         }
       ],
       "component_options": {
-        "hash": "",
+        "hash": "office-tour",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -1281,19 +1503,14 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Dr. Edwin Tyska is active in the local community as an assistant coach for the Lou Gehrig Lasers travel girls’ softball league and supports youth sports through local involvement."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Dr. Kristen Alexander participates in local activities and professional organizations; both doctors support community health through patient education and outreach."
+          "text": "Drs. Frank and Aimee and the Oceans team are committed to outreach. They have participated in international mission work to bring dental care to children in need and regularly support local community initiatives to promote oral health for families."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.webp",
-        "alt": "Graphic representing community support and local involvement",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/165530282_Attentive_boy_pouring_new_plant.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/165530282_Attentive_boy_pouring_new_plant.webp",
+        "alt": "Graphic representing community support and outreach",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1309,7 +1526,7 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "",
+        "hash": "community-involvement",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -1330,7 +1547,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
+      "title": "Schedule a Consultation",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -1359,18 +1576,18 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/884003416_Close-up_of_a_handshake_between_a_doctor_and_a_pat.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/884003416_Close-up_of_a_handshake_between_a_doctor_and_a_pat.webp",
+        "alt": "Schedule a consultation at Oceans Orthodontics and Pediatric Dentistry",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "New Patients Hero"
+          "context_category": "Contact Hero"
         }
       },
       "reversed": false,
@@ -1380,15 +1597,15 @@
     },
     {
       "seo": {
-        "page_title": "About Us | Tyska & Alexander Orthodontics",
-        "page_description": "Learn about Dr. Edwin Tyska and Dr. Kristen Alexander, our team, and how we serve Clarence and Tonawanda with patient-focused orthodontic care.",
-        "page_keywords": "Orthodontics, Braces, Invisalign, Dr. Tyska, Dr. Alexander, TaOrtho",
+        "page_title": "About Us | Oceans Orthodontics and Pediatric Dentistry",
+        "page_description": "Learn about Oceans Orthodontics and Pediatric Dentistry in Westfield, NJ — our mission, board-certified team, and family-centered care.",
+        "page_keywords": "Oceans Orthodontics, Pediatric Dentistry, Westfield NJ, Orthodontist, Pediatric Dentist",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "About Us | Tyska & Alexander Orthodontics",
-            "description": "Meet our doctors and team serving Clarence and Tonawanda with modern, compassionate orthodontic care.",
-            "image": "https://www.taortho.com/assets/images/slideshow/slide1.jpg"
+            "title": "About Us | Oceans Orthodontics and Pediatric Dentistry",
+            "description": "Learn about Oceans Orthodontics and Pediatric Dentistry in Westfield, NJ — our mission, board-certified team, and family-centered care.",
+            "image": "https://d25xczrsvvsqdg.cloudfront.net/mysmithortho-treatments-hero.jpg"
           }
         }
       }
@@ -1410,13 +1627,13 @@
         "external": false,
         "include_icon": false,
         "icon": "pencil",
-        "color": "black"
+        "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/145673624_Happy_family_with_kids.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/145673624_Happy_family_with_kids.webp",
-        "alt": "Smiling family welcomed at Tyska Alexander Orthodontics front desk",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
+        "alt": "Smiling family welcomed at Oceans Orthodontics front desk",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1442,19 +1659,19 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Your initial consultation is where we learn about your concerns and evaluate your smile. You’ll meet our team and the doctor, we’ll review your dental and medical history, and perform a thorough oral exam to determine whether orthodontic treatment is recommended and which options may be right for you."
+          "text": "Thank you for your interest in Oceans Orthodontics and Pediatric Dentistry. Whether you’re scheduling your child’s first visit, wondering if braces are the right choice, or you’re an adult considering treatment, we offer a free consultation to review your needs and answer questions."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "We’ll help you build a customized treatment plan and walk through financial options, insurance details, and payment plans. Please bring completed patient forms or plan to fill them out electronically, a photo ID, any insurance cards, and a list of current medications."
+          "text": "At your initial visit we’ll meet your family, perform a complete oral exam with any needed X-rays, review your medical history, and explain treatment options and timing. We’ll also go over insurance, financing, and next steps so you leave knowing exactly what to expect."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211787210_young_woman_dentist_performs_examination_of_patien.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211787210_young_woman_dentist_performs_examination_of_patien.webp",
-        "alt": "Father with daughter at reception of dentist's surgery",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/222135901_A_young_Dentist_treating_a_female_Patient_in_the_d.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/222135901_A_young_Dentist_treating_a_female_Patient_in_the_d.webp",
+        "alt": "Father with daughter at the dental reception desk",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1484,7 +1701,7 @@
       "use_video": false,
       "large_image": false,
       "has_background": false,
-      "background": "bg2",
+      "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
       "large_title": true,
@@ -1493,13 +1710,13 @@
     },
     {
       "acf_fc_layout": "block_text_simple",
-      "title": "Payment & Financial Info",
+      "title": "Financing & Insurance",
       "paragraphs": [
         {
-          "text": "We accept most major credit cards and can assist with insurance claims when orthodontic benefits apply, helping to reduce paperwork for you."
+          "text": "We accept most major insurance plans and will file your claims electronically for maximum convenience."
         },
         {
-          "text": "Flexible financing and in-house payment plans are available to fit different budgets. Complimentary consultations are offered so you can meet our team, have photos taken, and review your treatment plan."
+          "text": "Flexible payment plans are available, and our treatment coordinator will help you find an option that fits your budget."
         }
       ],
       "component_options": {
@@ -1522,14 +1739,14 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Complete forms online through our patient portal, or download and print the appropriate health history PDFs before your visit. If you have trouble opening PDFs, Adobe Reader is available for free."
+          "text": "Before your appointment, please complete any new patient paperwork so we can provide safe, personalized care. If you have questions about forms, call 908-654-4949 or email office@oceanswestfield.com."
         }
       ],
       "accordion": [],
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/306422676_Female_visitor_filling_out_medicine_documents.webp",
-        "alt": "Patient filling out orthodontic health history forms online",
+        "alt": "Patient filling out new patient forms online",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1550,44 +1767,14 @@
           "button": {
             "type": "anchor",
             "style": "secondary",
-            "label": "Online Patient Portal",
-            "aria_label": "online patient portal",
-            "href": "https://patient.sesamecommunications.com/mandtortho/index.html",
+            "label": "Schedule a Free Aligner Consult",
+            "aria_label": "schedule a free aligner consult",
+            "href": "https://www.anywheredolphin.com/forms/oceanswestfield.com/XjNs7BcLtUCeqKpI7OLNwQ#nbb",
             "path": "",
             "hash": "",
             "external": true,
             "include_icon": false,
-            "icon": "envelope",
-            "color": "black"
-          }
-        },
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Patient Form (Child) PDF",
-            "aria_label": "patient form child pdf",
-            "href": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(2).pdf",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "pencil",
-            "color": "black"
-          }
-        },
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Patient Form (Adult) PDF",
-            "aria_label": "patient form adult pdf",
-            "href": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(3).pdf",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "pencil",
+            "icon": "tooth-outline",
             "color": "black"
           }
         }
@@ -1605,7 +1792,7 @@
       "use_video": false,
       "large_image": false,
       "has_background": false,
-      "background": "bg2",
+      "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
       "large_title": false,
@@ -1614,7 +1801,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
+      "title": "Schedule a Consultation",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -1643,18 +1830,18 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.webp",
+        "alt": "Schedule a consultation at Oceans Orthodontics and Pediatric Dentistry",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "New Patients Hero"
+          "context_category": "Contact Hero"
         }
       },
       "reversed": false,
@@ -1664,15 +1851,15 @@
     },
     {
       "seo": {
-        "page_title": "Get Started | TA Orthodontics",
-        "page_description": "Start your orthodontic journey: learn what to expect at your first visit, access patient forms, review payment options, and book a free consultation.",
-        "page_keywords": "orthodontics, new patient, patient forms, financing, consultation, TA Orthodontics",
+        "page_title": "Get Started | Oceans Orthodontics & Pediatric Dentistry",
+        "page_description": "Request a free consultation at Oceans Orthodontics and Pediatric Dentistry. Fill out the form, review new patient resources, or call 908-654-4949 to schedule.",
+        "page_keywords": "orthodontics, pediatric dentistry, free consultation, new patient, Oceans Orthodontics",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Get Started | TA Orthodontics",
-            "description": "Start your orthodontic journey: learn what to expect at your first visit, access patient forms, review payment options, and book a free consultation.",
-            "image": "https://d2jdm9a19iwpm4.cloudfront.net/get-started/get-started-hero-v2.jpg"
+            "title": "Get Started | Oceans Orthodontics & Pediatric Dentistry",
+            "description": "Request a free consultation at Oceans Orthodontics and Pediatric Dentistry. Fill out the form, review new patient resources, or call 908-654-4949 to schedule.",
+            "image": "https://d25xczrsvvsqdg.cloudfront.net/bvweyes-blog-hero-2.jpg"
           }
         }
       }
@@ -1694,13 +1881,13 @@
         "external": false,
         "include_icon": false,
         "icon": "pencil",
-        "color": "primary"
+        "color": "black"
       },
       "media_type": "image",
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.webp",
-        "alt": "Orthodontic treatment overview with smiling patients in a bright clinic",
+        "alt": "Smiling patients of all ages at our practice",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1708,9 +1895,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Treatments Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -1721,68 +1906,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Early/interceptive treatment for children",
+      "title": "Comprehensive Orthodontics",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Early treatment, often called Phase One, typically begins around age eight to nine with follow-up Phase Two around age 11 and up. The goal is to guide jaw growth, correct bite issues early, and make room for permanent teeth so later treatment can be simpler and shorter."
+          "text": "Comprehensive orthodontics covers a wide range of options — metal or ceramic braces, lingual braces, and clear aligners. Dr. Frank evaluates each patient’s bite, growth and goals, then presents treatment choices, risks and benefits so families can decide together."
         }
       ],
-      "accordion": [
-        {
-          "header": "When to start",
-          "paragraphs": [
-            {
-              "text": "The American Association of Orthodontists recommends an evaluation by age seven. We look for signs that early care could help, including crowding, crossbites, or a pronounced underbite."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
-            "alt": "Young patient receiving early orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Kid"
-            }
-          }
-        },
-        {
-          "header": "What it corrects",
-          "paragraphs": [
-            {
-              "text": "Early care can guide jaw growth, address crossbites, severe crowding, protruding teeth and space issues, and reduce problems caused by prolonged thumb sucking."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/491614289_Model_of_jaw_with_braces_on_blue_background.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/491614289_Model_of_jaw_with_braces_on_blue_background.webp",
-            "alt": "Orthodontist consulting with a child and parent about early treatment",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          }
-        },
-        {
-          "header": "Benefits",
-          "paragraphs": [
-            {
-              "text": "Starting early can reduce the need for extractions or jaw surgery later, create space for permanent teeth, shorten future treatment time, and improve function like chewing and speech sooner."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.webp",
-            "alt": "Smiling child after early orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Kid friendly"
-            }
-          }
-        }
-      ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.webp",
-        "alt": "Child receiving orthodontic evaluation in a modern clinic",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.webp",
+        "alt": "Smiling family enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1790,9 +1926,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Initial Visit"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -1800,14 +1934,14 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "early-interceptive-treatment",
+        "hash": "comprehensive-orthodontics",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": false,
       "has_buttons": false,
-      "has_accordion": true,
+      "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -1821,52 +1955,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Adult orthodontic options — It’s never too late",
+      "title": "InBrace",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Many adults are excellent candidates for orthodontic care. Modern techniques offer discreet options that fit adult lifestyles while improving function, hygiene, and smile appearance."
+          "text": "InBrace places a custom Smartwire behind the teeth for discreet, continuous tooth movement. It’s an excellent option for patients who want brace-style results without visible brackets up front."
         }
       ],
-      "accordion": [
-        {
-          "header": "Discreet options",
-          "paragraphs": [
-            {
-              "text": "We offer clear aligners like Invisalign<sup>®</sup>, ceramic (clear) braces, and lower-profile metal braces with smaller brackets. For minor tooth movement, retainers can sometimes correct small concerns."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.webp",
-            "alt": "Adult patient smiling after orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Adult"
-            }
-          }
-        },
-        {
-          "header": "Expectations and coordination",
-          "paragraphs": [
-            {
-              "text": "Adult treatment times vary and may require coordination with periodontal care, restorative work, or, rarely, surgery. We plan treatments to minimize disruption and protect oral health."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/606463645_Dentist_mirror_and_woman_check_smile_after_teeth_c.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/606463645_Dentist_mirror_and_woman_check_smile_after_teeth_c.webp",
-            "alt": "Orthodontist reviewing adult treatment options with patient",
-            "image_selection_hints": {
-              "context_category": "Adult"
-            }
-          }
-        }
-      ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.webp",
-        "alt": "Adult patient consulting about orthodontic options",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
+        "alt": "Stylish teens smiling, discreet orthodontic treatment",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1874,9 +1975,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Adult"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -1884,14 +1983,14 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "adult-orthodontic-options",
+        "hash": "inbrace",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": true,
       "has_buttons": false,
-      "has_accordion": true,
+      "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -1905,102 +2004,24 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Traditional (metal) and ceramic braces",
-      "paragraphs": [],
-      "accordion": [
-        {
-          "header": "Traditional Metal Braces",
-          "paragraphs": [
-            {
-              "text": "Metal brackets bonded to the teeth use archwires to apply gentle, continuous force and move teeth into place. They are durable and effective for a wide range of problems."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
-            "alt": "Patient with traditional metal braces",
-            "image_selection_hints": {
-              "context_category": "Teen"
-            }
-          }
-        },
-        {
-          "header": "Ceramic Braces",
-          "paragraphs": [
-            {
-              "text": "Ceramic brackets blend with tooth color for a less noticeable option while providing effective tooth movement. They may require extra attention to hygiene and care."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.webp",
-            "alt": "Close-up of ceramic braces on teeth",
-            "image_selection_hints": {
-              "context_category": "Teen"
-            }
-          }
-        }
-      ],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.webp",
-        "alt": "Two smiling teens showing braces",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Treatments Hero"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "braces",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": true,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": true,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Invisalign<sup>®</sup> clear aligners",
+      "title": "Invisalign<sup>®</sup>",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Invisalign<sup>®</sup> uses advanced 3D imaging and a series of custom clear aligners to move teeth incrementally. Aligners are removable for eating and hygiene, and treatment is planned and previewed digitally."
+          "text": "Invisalign<sup>®</sup> uses clear, removable aligners made from advanced 3D imaging for a precise fit. No impressions are needed and patients can brush, floss and eat without bracket restrictions while progressing through staged aligners."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Candidates include people with crowding, spacing, and many bite issues. Appointments are often less frequent and the aligners use SmartTrack material and SmartForce features to maintain precise control of movement."
+          "text": "When orthodontic coverage applies, aligner benefits are typically covered similarly to conventional braces. We’ll review whether Invisalign<sup>®</sup> is a good fit for your goals at the initial exam."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/251234585_Portrait_of_beautiful_Asian_patient_woman_holding.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/251234585_Portrait_of_beautiful_Asian_patient_woman_holding.webp",
-        "alt": "Close-up of clear Invisalign aligner on teeth",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.webp",
+        "alt": "Close-up of clear aligners being placed on teeth",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2008,9 +2029,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Teen"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -2023,6 +2042,55 @@
         "component_margins": "none",
         "hide_component": false
       },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Spark Clear Aligners",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Spark and other clear aligner systems offer discreet tooth movement with custom-made trays. We begin with a fast digital scan, then design a series of aligners tailored to your tooth movements and lifestyle."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/412396002_Invisalign.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/412396002_Invisalign.webp",
+        "alt": "Digital scanner used for aligner and orthodontic records",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "spark-clear-aligners",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
       "reverse": true,
       "has_buttons": false,
       "has_accordion": false,
@@ -2039,24 +2107,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Surgical orthodontics (jaw surgery)",
+      "title": "Damon Braces",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Orthognathic surgery may be recommended for significant jaw discrepancies where tooth movement alone cannot achieve a stable, functional bite. Adults with skeletal malocclusions sometimes need combined surgical and orthodontic care."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "The process includes comprehensive evaluation and imaging, pre-surgical orthodontics to align the teeth, coordinated surgery with an oral and maxillofacial surgeon, and post-surgical orthodontics to finalize the bite."
+          "text": "Damon self-ligating braces use a low-friction system that often feels more comfortable and can reduce treatment time for some cases. The system eliminates rubber ties, helping keep teeth and gums healthier during treatment."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.webp",
-        "alt": "Orthodontic team reviewing surgical planning images",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/196907428.webp",
+        "alt": "Modern dental treatment room with advanced orthodontic equipment",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2064,9 +2127,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Surgery"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -2074,12 +2135,66 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "orthognathic-surgery",
+        "hash": "damon-braces",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
       "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Tongue Tie Release",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "We perform minimally invasive tongue-tie releases with a CO2 laser to improve feeding, speech and oral function. The laser allows precise releases with minimal bleeding and typically no stitches, and most children resume normal feeding and drinking right away."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "To schedule a consultation, call 908-654-4949 or request an appointment online at https://oceanswestfield.com/schedule-a-pediatric-dental-visit/."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/516256020_Dental_kid_health_examination_Doctor_examines_oral.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/516256020_Dental_kid_health_examination_Doctor_examines_oral.webp",
+        "alt": "Patient consultation for oral surgery and laser treatment",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "tongue-tie-release",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
       "has_buttons": false,
       "has_accordion": false,
       "is_dynamic": false,
@@ -2095,24 +2210,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Retainers and maintaining results",
+      "title": "Silver Diamine Fluoride (SDF)",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "After active treatment, retainers preserve alignment. We provide removable Essix-style retainers, traditional acrylic-and-wire retainers, and fixed bonded retainers depending on your needs."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Wear schedules vary by case: often full-time initially, then nightly. Good oral hygiene, regular dental cleanings, and following retainer instructions are essential to protect your investment."
+          "text": "Silver diamine fluoride is a minimally invasive option to halt early tooth decay. Applied as a topical solution for about one minute, SDF can stop progression in small cavities without drilling or sedation, making care gentler for young or anxious patients."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.webp",
-        "alt": "Patient holding a clear retainer",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/196478967_Intelligent_dentist_showing_teeth_x-ray_on_tablet.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/196478967_Intelligent_dentist_showing_teeth_x-ray_on_tablet.webp",
+        "alt": "Close-up dental imaging and minimally invasive treatment",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2120,9 +2230,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Restorative Treatments"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -2130,12 +2238,12 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "retainers",
+        "hash": "silver-diamine-fluoride-sdf",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
-      "reverse": true,
+      "reverse": false,
       "has_buttons": false,
       "has_accordion": false,
       "is_dynamic": false,
@@ -2151,68 +2259,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Advanced technology — 3D scanning and imaging",
+      "title": "Curodont",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "We use digital tools like iTero scanners, 3D treatment planning, and digital X-rays to improve precision and comfort. Digital scans replace messy impressions and help visualize your treatment outcome."
+          "text": "Curodont is a quick, non-invasive chairside treatment that uses a proprietary peptide to promote enamel repair at early stages of decay. Treatments take minutes and can be repeated to encourage natural remineralization beneath the lesion."
         }
       ],
-      "accordion": [
-        {
-          "header": "iTero digital scanning",
-          "paragraphs": [
-            {
-              "text": "Fast, radiation-free scans capture accurate 3D images for aligners and treatment planning."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.webp",
-            "alt": "Digital intraoral scanner in use",
-            "image_selection_hints": {
-              "context_category": "Technology"
-            }
-          }
-        },
-        {
-          "header": "3D treatment planning",
-          "paragraphs": [
-            {
-              "text": "Advanced software simulates each stage of tooth movement so you can preview results before treatment begins."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.webp",
-            "alt": "3D orthodontic treatment planning on a computer screen",
-            "image_selection_hints": {
-              "context_category": "Better Care"
-            }
-          }
-        },
-        {
-          "header": "Digital X-rays",
-          "paragraphs": [
-            {
-              "text": "High-resolution digital radiography and 3D imaging support accurate diagnosis while minimizing radiation exposure."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1120060139_A_3D_dental_model_displayed_on_a_computer_screen_h.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1120060139_A_3D_dental_model_displayed_on_a_computer_screen_h.webp",
-            "alt": "Digital X-ray equipment used in orthodontic diagnosis",
-            "image_selection_hints": {
-              "context_category": "Technology"
-            }
-          }
-        }
-      ],
+      "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.webp",
-        "alt": "Modern orthodontic technology and equipment in a treatment room",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/234278837_3d_render_of_tooth_with_gutta_percha_post_and_fill.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/234278837_3d_render_of_tooth_with_gutta_percha_post_and_fill.webp",
+        "alt": "3D treatment planning and modern dental care",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2220,9 +2279,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Advanced Technology"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -2230,14 +2287,14 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "advanced-technology",
+        "hash": "curodont",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
       },
-      "reverse": false,
+      "reverse": true,
       "has_buttons": false,
-      "has_accordion": true,
+      "has_accordion": false,
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
@@ -2251,7 +2308,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
+      "title": "Schedule a Consultation",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -2280,18 +2337,18 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/316558318_young_beautiful_lady_with_blond_short_hair_sit_in.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/316558318_young_beautiful_lady_with_blond_short_hair_sit_in.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
+        "alt": "Schedule a consultation at Oceans Orthodontics and Pediatric Dentistry",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "New Patients Hero"
+          "context_category": "Contact Hero"
         }
       },
       "reversed": false,
@@ -2301,15 +2358,15 @@
     },
     {
       "seo": {
-        "page_title": "Treatments | TA Orthodontics",
-        "page_description": "Explore orthodontic treatments for all ages: early care, braces, Invisalign®, surgical planning, retainers and advanced digital technology.",
-        "page_keywords": "orthodontics, braces, Invisalign, early treatment, retainers, orthognathic surgery, iTero, clear aligners",
+        "page_title": "Treatments | Oceans Orthodontics & Pediatric Dentistry",
+        "page_description": "Comprehensive orthodontic and pediatric dental treatments in Westfield, NJ. Clear aligners, braces, laser tongue-tie release, SDF and enamel repair.",
+        "page_keywords": "orthodontics, pediatric dentistry, Invisalign, InBrace, Spark aligners, Damon braces, tongue tie, SDF, Curodont, retainers",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Treatments | TA Orthodontics",
-            "description": "Explore orthodontic treatments for all ages: early care, braces, Invisalign®, surgical planning, retainers and advanced digital technology.",
-            "image": "https://www.taortho.com/assets/images/treatment-01.jpg"
+            "title": "Treatments | Oceans Orthodontics & Pediatric Dentistry",
+            "description": "Comprehensive orthodontic and pediatric dental treatments in Westfield, NJ. Clear aligners, braces, laser tongue-tie release, SDF and enamel repair.",
+            "image": "https://d25xczrsvvsqdg.cloudfront.net/holt-orthodontics-faq-hero.jpg"
           }
         }
       }
@@ -2330,14 +2387,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
+        "icon": "phone",
         "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
-        "alt": "Tyska Alexander Orthodontics Clarence office exterior and reception area",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.webp",
+        "alt": "Reception desk with appointment book and phone in a bright dental office",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2358,7 +2415,7 @@
     },
     {
       "acf_fc_layout": "map",
-      "title": "Our Location",
+      "title": "How to Reach Us",
       "component_options": {
         "hash": "",
         "component_padding": "half",
@@ -2384,15 +2441,15 @@
     },
     {
       "seo": {
-        "page_title": "Contact Tyska Alexander Orthodontics | Clarence & Tonawanda Orthodontist",
-        "page_description": "Contact Tyska Alexander Orthodontics in Clarence and Tonawanda. Call (716) 759-8323, email info@taortho.com, or request an appointment online.",
-        "page_keywords": "Tyska Alexander Orthodontics contact, Clarence orthodontist, Tonawanda orthodontist, appointment, patient forms",
+        "page_title": "Contact Oceans Orthodontics & Pediatric Dentistry | Westfield, NJ",
+        "page_description": "Contact Oceans Orthodontics & Pediatric Dentistry in Westfield, NJ. Call 908-654-4949 or email office@oceanswestfield.com to schedule an appointment.",
+        "page_keywords": "Oceans Westfield contact, Westfield NJ orthodontics, pediatric dentistry Westfield, orthodontic appointment, contact Oceans",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Contact Tyska Alexander Orthodontics | Clarence & Tonawanda Orthodontist",
-            "description": "Contact Tyska Alexander Orthodontics in Clarence and Tonawanda. Call (716) 759-8323, email info@taortho.com, or request an appointment online.",
-            "image": "https://www.taortho.com/assets/uploads/images/clarence-office.jpg"
+            "title": "Contact Oceans Orthodontics & Pediatric Dentistry | Westfield, NJ",
+            "description": "Contact Oceans Orthodontics & Pediatric Dentistry in Westfield, NJ. Call 908-654-4949 or email office@oceanswestfield.com to schedule an appointment.",
+            "image": "https://oceanswestfield.com/wp-content/themes/Divi/includes/builder/images/marker.png"
           }
         }
       }
@@ -2420,7 +2477,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.webp",
-        "alt": "Patient speaking with front desk about appointments in a bright orthodontic office",
+        "alt": "Patient smiling with orthodontic braces in our Emeryville office",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2441,28 +2498,28 @@
     },
     {
       "acf_fc_layout": "accordion",
-      "title": "FAQ",
+      "title": "Common Problems",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Find answers to common questions about orthodontic treatments, Invisalign<sup>®</sup>, appointment scheduling, patient forms, and payment options at Tyska Alexander Orthodontics."
+          "text": "Answers to common dental questions from our Westfield team, covering teething, canker sores, staining, double row teeth, and erupting molars."
         }
       ],
       "accordion": [
         {
-          "header": "What treatment options do you offer?",
+          "header": "Teething",
           "paragraphs": [
             {
-              "text": "We offer a full range of orthodontic options including traditional metal braces, ceramic (clear) braces, Invisalign<sup>®</sup> clear aligners, retainers for minor movement, palatal expanders and other appliances. Your doctor will review options and recommend the best approach for your needs."
+              "text": "This can occur in babies all the way through the college years. From their first tooth to wisdom teeth, teething can cause discomfort. Tylenol or motrin is a great option for pain relief. Cold foods, such as a frozen banana, or teether rings help our little ones. We do not recommend using Orajel with infants. Find more infant teething tips on Dr. Aimee’s baby blog where she discusses the ups and downs of her son’s teething."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.webp",
-            "alt": "Orthodontic consultation and treatment planning in a modern office",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/787081400_Happy_girl_smiling_with_braces_sunny_beach_backgro.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/787081400_Happy_girl_smiling_with_braces_sunny_beach_backgro.webp",
+            "alt": "Happy Family Portrait",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2471,27 +2528,27 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Treatments Hero"
+              "context_category": "Common"
             }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "How does Invisalign work and how long does it take?",
+          "header": "Cankersores",
           "paragraphs": [
             {
-              "text": "Invisalign<sup>®</sup> uses a series of clear, removable aligner trays made from SmartTrack material. A custom digital plan maps tooth movement; aligners are usually worn about 20–22 hours per day and checkups are typically every six weeks. Treatment length varies by case."
+              "text": "Sometimes when we have a cold coming on or put our dirty fingers in our mouth we develop an ulcer or cankersore. These pesky spots can cause an immense amount of pain or sting. It usually takes a week or so to heal. It is recommended to stay away from spicy or lemony/acidic foods. Swishing with warm salt water can alleviate the discomfort and heal your mouth quicker."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.webp",
-            "alt": "Clear aligners on a model showing staged tooth movement",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/203677035_Toothache_medicine_health_care_concept_Teeth_Probl.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/203677035_Toothache_medicine_health_care_concept_Teeth_Probl.webp",
+            "alt": "Couple Enjoying Time Together",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2500,27 +2557,27 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Treatments Hero"
+              "context_category": "Common"
             }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "How long will orthodontic treatment take?",
+          "header": "Staining",
           "paragraphs": [
             {
-              "text": "Treatment times vary by age, method and case severity. Typical ranges are about 1–3 years; early (interceptive) treatment for children can shorten overall time. Your doctor will estimate your treatment length during the consultation."
+              "text": "If you notice you child develops dark stains on their teeth, there are many possible causes to consider. Often times iron supplements or vitamins can cause a black stain on the teeth. Some people have oral bacteria with chromogenic properties, meaning they form colors on our teeth. These stains can be easily removed with a good dental cleaning. As your child approaches teenage years they may become more concerned about the appearance and color of their teeth. At this time we can discuss whitening options such as over-the-counter white strips or in-office/at-home tray treatment."
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/305918963_Smiling_happy_woman_mouth_with_tongue_and_braces_O.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/305918963_Smiling_happy_woman_mouth_with_tongue_and_braces_O.webp",
-            "alt": "Orthodontic treatment timeline explanation during a consultation",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1229432042_Woman_in_dental_chair_smiling_and_holding_a_mirror.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1229432042_Woman_in_dental_chair_smiling_and_holding_a_mirror.webp",
+            "alt": "Collaborative Team Spirit Moment",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2529,27 +2586,27 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Treatments Hero"
+              "context_category": "Common"
             }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "Do you offer surgical orthodontics if needed?",
+          "header": "Double Row (aka “Shark Teeth”)",
           "paragraphs": [
             {
-              "text": "For adults with severe jaw discrepancies we coordinate orthognathic (jaw) surgery with an oral/maxillofacial surgeon. Braces are used before and after surgery to finalize the bite; we will discuss risks, recovery time and expected steps if surgery is recommended."
+              "text": "A double row occurs when a permanent tooth grows in before the baby tooth falls out. It typically erupts behind the baby tooth, giving it the name double row. Good news, the tongue is a very strong muscle and usually once the baby tooth is out, the tongue can begin to push the permanent tooth into its rightful place. We usually start by giving the child “dentist homework” to work on getting the baby tooth out. This can mean washing hands and physically wiggling it, or biting into hard things like bagels, apples, carrots, or pizza crust. If the child is unsuccessful for about a month, we suggest giving the office a call so that Dr. Aimee can help to wiggle it out!"
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg",
-            "webp": "",
-            "alt": "Orthodontist reviewing surgical treatment coordination with a patient",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.webp",
+            "alt": "Smiling Man Working at Desk",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2558,27 +2615,27 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "All Ages"
+              "context_category": "Common"
             }
           },
           "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         },
         {
-          "header": "What do I need to know about visiting the dentist while in orthodontic care?",
+          "header": "Erupting Molars",
           "paragraphs": [
             {
-              "text": "Continue visiting your family dentist every six months for cleanings and routine care while in orthodontic treatment. If extra dental work is needed, our offices will coordinate timing and care with your family dentist."
+              "text": "New molars can happen at various ages. As babies, we get our first molars around 15 months old and our second molars around 2-3 years old. As a kid we get our first permanent molars around 6 years old, our second around 12 and our third molars, AKA wisdom teeth, around 17 years old. At any of these points growing new teeth can be uncomfortable. It may require Tylenol or Motrin for discomfort. Cold stuff is great as well. For the little ones — teethers or frozen banana to gnaw on are great. For older kids, swishing with warm salt water can be helpful as the gum tissue can be a bit inflamed as that new molar breaks through. An eruption hematoma — a black and blue mark — can appear on the gums before a molar erupts. It can be tender or painful, know that once the molar comes in the black and blue will go away!"
             }
           ],
           "has_media": false,
           "media_type": "image",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/974226401_Clinic_patient_hands_writing_medical_documents_in.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/974226401_Clinic_patient_hands_writing_medical_documents_in.webp",
-            "alt": "Orthodontic team coordinating care with a family dentist",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/232566070_Young_patient_in_dental_clinic_show_with_finger_to.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/232566070_Young_patient_in_dental_clinic_show_with_finger_to.webp",
+            "alt": "Mother and Daughter Smiling Together",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -2587,185 +2644,11 @@
             "forceAlt": "",
             "loading_mask": "",
             "image_selection_hints": {
-              "context_category": "Experienced"
+              "context_category": "Common"
             }
           },
           "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How often will I have appointments during treatment?",
-          "paragraphs": [
-            {
-              "text": "Routine orthodontic follow-ups are usually scheduled about every 4–8 weeks, depending on the appliance and stage of treatment."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg",
-            "webp": "",
-            "alt": "Patient returning for a routine orthodontic adjustment",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What are the basic care instructions (brushing, flossing, appliance care)?",
-          "paragraphs": [
-            {
-              "text": "Brush and floss carefully after meals. For braces use floss threaders or orthodontic floss; consider a water flosser if needed. For loose wires or irritation use orthodontic wax or rinse with warm salt water and contact the office for advice. For aligners, wear them 20–22 hours/day and remove only for eating and oral hygiene."
-            }
-          ],
-          "has_media": true,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/232435916_Electronic_medical_record_with_patient_data_and_he.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/232435916_Electronic_medical_record_with_patient_data_and_he.webp",
-            "alt": "Brushing and flossing with braces",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Gentle"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What happens after my initial consultation?",
-          "paragraphs": [
-            {
-              "text": "After your consultation we’ll schedule your first appliance placement visit. The placement appointment typically takes about an hour. The doctor and team will be available to ensure your comfort."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/486483782_Close_up_of_dentist_hand_using_dental_forceps_whil.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/486483782_Close_up_of_dentist_hand_using_dental_forceps_whil.webp",
-            "alt": "Orthodontic team preparing a patient for appliance placement",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What payment and insurance options do you accept?",
-          "paragraphs": [
-            {
-              "text": "Treatment cost depends on your individualized plan. The practice accepts most major credit cards and many insurance plans, and offers in‑house financing and low monthly payment plans. Office staff will help with insurance claims and paperwork."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/624176181_Choose_the_right_insurance_Learn_more_about_insura.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/624176181_Choose_the_right_insurance_Learn_more_about_insura.webp",
-            "alt": "Front desk staff helping a patient with insurance and payment options",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Flexible Payments"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How can I schedule an appointment?",
-          "paragraphs": [
-            {
-              "text": "You can call either office or request an appointment online. Phone (Clarence office): (716) 759-8323. Phone (Tonawanda office): (716) 875-0405. Appointment request (online form): https://www.taortho.com/appointment-request."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.webp",
-            "alt": "Patient calling to schedule an orthodontic appointment",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Contact Hero"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "Where can I fill out new‑patient forms?",
-          "paragraphs": [
-            {
-              "text": "Patients can fill forms electronically here: https://patient.sesamecommunications.com/mandtortho/index.html. Printable PDFs (child and adult health history) are also available:\nChild Patient Form (PDF): https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(2).pdf\nAdult Patient Form (PDF): https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(3).pdf"
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.webp",
-            "alt": "Patient completing new patient forms on a tablet",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "video": {
-            "type": "embedded",
+            "type": "file",
             "src": ""
           }
         }
@@ -2779,7 +2662,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
+      "title": "Schedule a Consultation",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -2808,18 +2691,18 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/228891476_Portrait_of_a_happy_young_woman_dressed_in_sweater.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/228891476_Portrait_of_a_happy_young_woman_dressed_in_sweater.webp",
+        "alt": "Schedule a consultation at Oceans Orthodontics and Pediatric Dentistry",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
         "addLoader": false,
-        "objectPosition": "",
+        "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "New Patients Hero"
+          "context_category": "Contact Hero"
         }
       },
       "reversed": false,
@@ -2829,15 +2712,15 @@
     },
     {
       "seo": {
-        "page_title": "FAQ | Tyska Alexander Orthodontics",
-        "page_description": "Answers to common questions about orthodontic treatments, scheduling, forms, and payment options at Tyska Alexander Orthodontics.",
-        "page_keywords": "orthodontics, braces, Invisalign, FAQ, Clarence, Tonawanda, patient forms",
+        "page_title": "FAQ | Oceans Westfield",
+        "page_description": "FAQ — Answers to common dental and orthodontic questions from Oceans Westfield in Westfield, NJ, including teething, stains, and scheduling details.",
+        "page_keywords": "dentistry, pediatric dentistry, orthodontics, teething, FAQ, Westfield NJ, Oceans Westfield",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "FAQ | Tyska Alexander Orthodontics",
-            "description": "Answers to common questions about orthodontic treatments, scheduling, forms, and payment options at Tyska Alexander Orthodontics.",
-            "image": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg"
+            "title": "FAQ | Oceans Westfield",
+            "description": "Answers to common dental and orthodontic questions from Oceans Westfield in Westfield, NJ.",
+            "image": "https://d25xczrsvvsqdg.cloudfront.net/andersonbracesmn-contact-hero.jpg"
           }
         }
       }
