@@ -1,77 +1,54 @@
 {
   "enable_development_mode": false,
-  "company_name": "Tyska Alexander Orthodontics",
-  "domain": "taortho.com",
-  "email": "info@mandtortho.com",
+  "company_name": "Oceans Orthodontics and Pediatric Dentistry",
+  "domain": "oceanswestfield.com",
+  "email": "office@oceanswestfield.com",
   "phone": {
-    "number": "(716) 759-8323",
-    "href": "tel:+17167598323",
-    "aria": "7 1 6, 7 5 9, 8 3 2 3"
+    "number": "908-654-4949",
+    "href": "tel:+19086544949",
+    "aria": "9 0 8, 6 5 4, 4 9 4 9"
   },
   "location": [
     {
-      "title": "Clarence Office",
+      "title": "",
       "address": {
-        "street": "9650 Main Street",
+        "street": "522 E. Broad St.",
         "suite": "",
-        "city_state": "Clarence, NY 14031",
+        "city_state": "Westfield, NJ 07090",
         "coordinates": {
-          "longitude": "-78.6314355",
-          "latitude": "42.9736638"
+          "longitude": "-74.343305",
+          "latitude": "40.655788"
         }
       },
       "phone": {
-        "number": "(716) 759-8323",
-        "href": "tel:+17167598323"
+        "number": "908-654-4949",
+        "href": "tel:+19086544949"
       },
-      "email": "info@mandtortho.com",
+      "email": "office@oceanswestfield.com",
       "hours": [
         {
-          "day": "Monday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Mon",
+          "time": "8:30 am \u000211 6:00 pm"
         },
         {
-          "day": "Tuesday",
-          "time": "8:30 am \t6:30 pm"
+          "day": "Tue",
+          "time": "9:00 am \u000211 5:00 pm"
         },
         {
-          "day": "Wednesday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Wed",
+          "time": "8:00 am \u000211 5:00 pm"
         },
         {
-          "day": "Thursday",
-          "time": "8:00 am \t6:00 pm"
+          "day": "Thu",
+          "time": "8:30 am \u000211 6:00 pm"
         },
         {
-          "day": "Friday",
-          "time": "8:00 am \t11:30 am"
+          "day": "Fri",
+          "time": "8:30 am \u000211 4:30 pm"
         }
       ],
       "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "Get Directions"
-      },
-      "special_note": ""
-    },
-    {
-      "title": "Tonawanda Office",
-      "address": {
-        "street": "1077 Delaware Rd",
-        "suite": "",
-        "city_state": "Tonawanda, NY 14223",
-        "coordinates": {
-          "longitude": "-78.8730228",
-          "latitude": "42.9901241"
-        }
-      },
-      "phone": {
-        "number": "(716) 875-0405",
-        "href": "tel:+17168750405"
-      },
-      "email": "info@mandtortho.com",
-      "hours": [],
-      "directions_link": {
-        "href": "https://www.google.com/maps/search/?api=1&query=1077+Delaware+Rd+Tonawanda+NY+14223",
+        "href": "https://www.google.com/maps/search/?api=1&query=522+E.+Broad+St.+Westfield+NJ+07090",
         "label": "Get Directions"
       },
       "special_note": ""
@@ -94,28 +71,28 @@
     "content_alignment": "right",
     "links": [
       {
-        "icon": "tooth-two-v1",
-        "text": "9650 Main Street, Clarence, NY 14031",
-        "href": "https://www.google.com/maps/search/?api=1&query=9650+Main+St+Clarence+NY+14031",
-        "label": "View 9650 Main Street, Clarence, NY 14031 on google maps",
+        "icon": "tooth-two-v2",
+        "text": "522 E. Broad St., Westfield, NJ 07090",
+        "href": "https://www.google.com/maps/search/?api=1&query=522+E.+Broad+St.+Westfield+NJ+07090",
+        "label": "View 522 E. Broad St., Westfield, NJ 07090 on google maps",
         "new_window": true
       },
       {
         "icon": "phone",
-        "text": "(716) 759-8323",
-        "href": "tel:+17167598323",
-        "label": "Call 7 1 6. 7 5 9. 8 3 2 3.",
+        "text": "908-654-4949",
+        "href": "tel:+19086544949",
+        "label": "Call 9 0 8. 6 5 4. 4 9 4 9.",
         "new_window": false
       }
     ],
     "announcement": {
       "icon": "tooth-two-v2",
-      "label": "",
-      "text": "",
-      "mobile_text": "",
+      "label": "COVID-19 update",
+      "text": "Learn how we keep patients safe during in-office visits.",
+      "mobile_text": "COVID-19 update",
       "modal": {
-        "title": "",
-        "text": ""
+        "title": "COVID-19 Update",
+        "text": "<p>We continue to follow evidence-based infection control guidelines to protect our patients and team. If you have questions about safety measures, pre-appointment screening, or visitor policy, call our office at 908-654-4949 and we will be happy to help.</p>"
       }
     }
   },
@@ -124,14 +101,14 @@
     "buttons": [
       {
         "button": {
-          "type": "nuxt",
+          "type": "anchor",
           "style": "primary",
           "label": "Schedule Consultation",
           "aria_label": "Schedule a consultation",
-          "href": "",
-          "path": "/contact",
-          "hash": "#form",
-          "external": false,
+          "href": "https://www.anywheredolphin.com/forms/oceanswestfield.com/XjNs7BcLtUCeqKpI7OLNwQ",
+          "path": "",
+          "hash": "",
+          "external": true,
           "include_icon": true,
           "icon": "tooth-two-v2",
           "color": "primary"
@@ -150,7 +127,15 @@
   "footer": {
     "social_media": [
       {
-        "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+        "href": "https://www.facebook.com/pg/oceanswestfield/reviews/",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/oceanswestfield/",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://www.youtube.com/watch?v=3VjKVMg45gw",
         "icon": "youtube"
       }
     ],
@@ -158,12 +143,12 @@
   },
   "enable_popup": false,
   "popup": {
-    "title": "",
-    "text": "",
+    "title": "Welcome to Oceans Orthodontics and Pediatric Dentistry",
+    "text": "Exceptional care for growing smiles. Call 908-654-4949 or schedule a free consultation.",
     "image": {
-      "src": "",
+      "src": "https://www.oceanswestfield.com/wp-content/uploads/2018/02/Oceans-logo-white.png",
       "webp": "",
-      "alt": "",
+      "alt": "Oceans Orthodontics and Pediatric Dentistry logo",
       "aria_hidden": false,
       "bgColor": "",
       "imageBackground": false,
@@ -171,7 +156,9 @@
       "objectPosition": "",
       "forceAlt": "",
       "loading_mask": "",
-      "image_selection_hints": null
+      "image_selection_hints": {
+        "context_category": "About Hero"
+      }
     }
   }
 }
